@@ -1,4 +1,4 @@
-# PROLOG
+# :green_book: PROLOG
 
 #### Repo made for Artificial Inteligente - UNIFEI 2019
 
